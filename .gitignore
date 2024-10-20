@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Configuration files
+config.in
+
+# Random files
+run.bat 
+__pycache__/
